@@ -8,3 +8,4 @@ Next in line:
 - Logistic Regression
 - Naive Bayes
 - Perceptron
+- SVM
