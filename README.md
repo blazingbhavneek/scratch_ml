@@ -7,3 +7,4 @@ Models done:
 Next in line:
 - Logistic Regression
 - Naive Bayes
+- Perceptron
