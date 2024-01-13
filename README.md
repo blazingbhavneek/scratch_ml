@@ -5,8 +5,8 @@ Models done:
 - KNN
 - Linear Regression
 - Logistic Regression
+- Naive Bayes
 
 Next in line:
-- Naive Bayes
 - Perceptron
 - SVM
